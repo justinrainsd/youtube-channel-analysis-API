@@ -1,3 +1,6 @@
+import pandas as pd  # Data manipulation library
+import numpy as np  # Numerical computing library
+
 def get_channel_stats(youtube, channel_ids):
     """
     Get channel statistics: title, subscriber count, view count, video count, upload playlist
