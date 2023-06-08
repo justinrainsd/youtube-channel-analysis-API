@@ -33,9 +33,3 @@ The code generates various visualizations to provide insights into the YouTube c
 - Scatter plots: Analyzing relationships between views, comments, likes, and other variables.
 - Word clouds: Visualizing frequently used words in video titles and comments.
 - The generated visualizations help understand the popularity and engagement of the channels and identify trends and patterns in the data.
-
-**Data Output**
-The code saves the retrieved video data and comments data from the top 10 channels to CSV files: video_data_top10_channels.csv and comments_data_top10_channels.csv, respectively. These files contain relevant information for further analysis and can be used for additional processing.
-
-**Disclaimer**
-Please note that this code is for educational purposes and provided as-is. Use it responsibly and ensure compliance with the YouTube Data API terms of service.
